@@ -1,0 +1,1 @@
+INSERT INTO public.USER (first_name,last_name,routing_number,nationalid,account_number) VALUES ('firstName','lastName','1','1','1');COMMIT;
